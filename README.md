@@ -8,7 +8,7 @@ To achieve good performance, a fast way of checking whether a given point is ins
 
 The main output of the simulations is the spatial probability density of the FBM walkers which models the spatial density of the serotonergic axons in the brain.
 
-If you use this code, or any derivative work in academic work, please cite the following publications:
+If you use this code, or any derivative program in academic work, please cite the following publications:
 - Skirmantas Janušonis, Nils Detering, Ralf Metzler, and Thomas Vojta, Serotonergic Axons as Fractional Brownian Motion Paths: Insights Into the Self-Organization of Regional Densities, Front. Comput. Neurosci. 14, 56 (2020), [https://doi.org/10.3389/fncom.2020.00056](https://doi.org/10.3389/fncom.2020.00056)
 - Skirmantas Janušonis, Justin H. Haiman, Ralf Metzler, and Thomas Vojta, Predicting the distribution of serotonergic axons: a supercomputing simulation of reflected fractional Brownian motion in a 3D-mouse brain model, Front. Comput. Neurosci. 17, 1189853 (2023), [https://doi.org/10.3389/fncom.2023.1189853](https://doi.org/10.3389/fncom.2023.1189853)
 
